@@ -2,7 +2,7 @@ import React from 'react';
 
 import { string } from 'prop-types;
 
-import SkeletonWrapper from './components/SkeletonWrapper';
+import SkeletonWrapper from 'SkeletonWrapper'; //fix depending on your files layout
 
 const propTypes = {
   recipe: string,
