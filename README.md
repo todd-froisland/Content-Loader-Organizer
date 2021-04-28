@@ -12,6 +12,9 @@ Use this framework to:
 
   * This feature implements the react-content-loader package. You'll need to install this package using `npm install react-content-loader` to use this feature.
 
+  * Several values need to be filled with your preferences in order to function. #Please check each file#.
+
+
   * Currently, shapes that have been verified as implementable are rectangles and circles. See the recipe.jsx file for examples.
 
   * Add global variables like (speed and colors) at the skeletonWrapper component level to maintain uniformity and simplicity across all of your different variations of content loaders
