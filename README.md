@@ -6,7 +6,7 @@ Use this framework to:
 * create new content loaders of different shapes and sizes
 * maintain them in an orderly and scalable fashion
 * avoid bloating your codebase
-* separate concerns and implement SOLID principles of coding.
+* separate concerns and implement SOLID principles of software development.
 
 ## Tips
 
