@@ -1,4 +1,4 @@
-# Content-Loader-Organizer
+# Content-Loader-Organizer - React.js
 
 content loaders can come in several varieties and can become cumbersome to codebases depending on the length and complexity of the loader.
 
