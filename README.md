@@ -13,7 +13,10 @@ Use this framework to:
   * This feature implements the react-content-loader package. You'll need to install this package using `npm install react-content-loader` to use this feature.
 
   * Several values need to be filled with your preferences in order to function. Please check each file.
-
+  
+  * When building loader shapes, you must specify the X and Y location within the viewbox of where you want the top-left corner of the shape to begin (or center of the circle, depending on the shape).
+  
+  * With the current layout, the viewbox will adjust to your screen's size. 
 
   * Currently, shapes that have been verified as implementable are rectangles and circles. See the recipe.jsx file for examples.
 
