@@ -17,3 +17,4 @@ Use this framework to:
   * Add global variables like (speed and colors) at the skeletonWrapper component level to maintain uniformity and simplicity across all of your different variations of content loaders
   * Add individual shapes to individual recipes to change shape and size of loaders. 
   * Add viewbox values at the skeletonWrapper level to make sure your individual recipes are dependent upon your wrapper. This allows for unity among the individual loaders. 
+  * Because this feature is meant to be expandable based on your content loader needs, you'll need to copy these files into your repo to start using it.
