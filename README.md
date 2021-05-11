@@ -2,7 +2,7 @@
 
 Content loaders can come in several varieties depending on your needs. Over time, your codebase can be encumbered with repetitive lines of content loader code. This also causes problems with separation of concerns.
 
-Use this framework to:
+Use this framework library to:
 * create new content loaders of different shapes and sizes
 * maintain them in an orderly and scalable fashion
 * avoid bloating your codebase
