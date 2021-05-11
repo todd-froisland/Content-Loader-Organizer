@@ -1,6 +1,6 @@
 # Content-Loader-Organizer - React.js
 
-Content loaders can come in several varieties depending on your needs. Over time, your codebase can be encumbered with repetitive lines of content loader code. This causes problems with separation of concerns.
+Content loaders can come in several varieties depending on your needs. Over time, your codebase can be encumbered with repetitive lines of content loader code. This also causes problems with separation of concerns.
 
 Use this framework to:
 * create new content loaders of different shapes and sizes
